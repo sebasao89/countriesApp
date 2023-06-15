@@ -1,0 +1,113 @@
+[33mcommit 4036405f70c57c65bcc69620166d2125b0ea166e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Wed Jun 14 16:23:52 2023 -0500
+
+    Metodo para solicitar peticiones cuando se deja de escribir
+
+[33mcommit 2b5265b834be92335b8f4678a960583b646b6ac4[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Wed Jun 14 15:43:48 2023 -0500
+
+    Mostrar y ocultar loading
+
+[33mcommit 563ad6546c9c71f56c28028f38995e4f47133968[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Wed Jun 14 15:35:32 2023 -0500
+
+    Loading spinner creado con HTML, CSS y SVG
+
+[33mcommit e97e8baa43eb2c24adee5bfabeb1e232dbf824d6[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Wed Jun 14 15:13:59 2023 -0500
+
+    Metodo getCountriesRequest para optimizar peticiones search country
+
+[33mcommit 24ea9a363d2f5de927641bfa202c3c1df6b5badf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Tue Jun 13 22:28:13 2023 -0500
+
+    Navegar hacia pagina del pais - link router
+
+[33mcommit 0e9c8a010a643ffb937ed4be0ecd2c25daa324ee[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Tue Jun 13 22:22:06 2023 -0500
+
+    Mostrando la informacion del pais
+
+[33mcommit 067279acd714f08d1f8a39a17b535cbfb6ca6354[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Tue Jun 13 21:59:35 2023 -0500
+
+    refacorizacion con switchMap
+
+[33mcommit 1ff6814cdb8a95e8cba60289328ad400f99b09e3[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Tue Jun 13 21:16:36 2023 -0500
+
+    Argumentos por URL
+
+[33mcommit 3d717574b07924940dbf97d6b211d316514e18ee[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Mon Jun 12 21:40:41 2023 -0500
+
+    Argumentos por URL ngOnInit
+
+[33mcommit e1d1de7b602c972c3e9536934a3e924889954609[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Mon Jun 12 21:05:12 2023 -0500
+
+    Busquedas por pais y region
+
+[33mcommit da51cbbceac82775d53ca33986c48bdf388c2013[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Sat Jun 10 12:29:23 2023 -0500
+
+    capturando error de busquedas CatchError()
+
+[33mcommit 8ca3ee3fbecac4c105d861ac80fd8e4de6976dc9[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Sat Jun 10 12:16:05 2023 -0500
+
+    mostrando los paises por capital en una tabla
+
+[33mcommit 322be0bb8a5f4075bdd7e9f932fd2c980e7c9621[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Fri Jun 9 11:36:40 2023 -0500
+
+    mostrando resultados en pantalla
+
+[33mcommit 1854166cd0c16bfbf2d977e7f7c80a0ad591e389[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Fri Jun 9 11:19:45 2023 -0500
+
+    service country finalizado
+
+[33mcommit 58a9e3a5c402fda4c03d8e530f2aeaa6c3aeb448[m
+Author: sebas-meseta <sebas.ao@outlook.com>
+Date:   Fri Jun 9 08:31:59 2023 -0500
+
+    se adiciono el modulo HttpClientModule
+
+[33mcommit 292cdfc493c781187ffc1defeb09fb7194537f6c[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Thu Jun 8 21:27:41 2023 -0500
+
+    restcountries
+
+[33mcommit 58619b822228c5c3855162fcb3a1359ebdc1181f[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Tue Jun 6 21:46:20 2023 -0500
+
+    componente de busqueda por ciudad
+
+[33mcommit d9e2985113fa0795ff96e501328e776f3568f19c[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Mon Jun 5 21:08:28 2023 -0500
+
+    Inicio del proyecto, manejo de router module, router link, entre otros
+
+[33mcommit 01a571aa69e1145a47612dd1140c0b47f12513b9[m
+Author: Sebasao <sebas.ao@outlook.com>
+Date:   Thu Jun 1 22:34:41 2023 -0500
+
+    initial commit
